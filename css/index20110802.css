@@ -1,0 +1,19 @@
+﻿
+
+padding:0;
+}
+img{border:none;}
+html,body { height:100%; background:#fff; }
+body { font:12px "宋体",Arial,sans-serif; color:#333; }
+body,form,menu,dir,fieldset,blockquote,p,pre,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6 { padding:0; margin:0; }
+ul,ol,dl { list-style:none; }
+.style{margin:0 0 3px;}
+a,a:hover{color:#303030; text-decoration:none;}
+#con .right{float:left; width:788px; margin-top:12px; }
+#banner{ width:960px; height:250px; margin-bottom:5px; overflow:hidden; position:relative;}
+#imgNum{ position:absolute; right:5px; top:225px; }
+#imgNum ul{margin:0;padding:0;list-style-type: none; font:10px/16px '微软雅黑';}
+#imgNum li{ text-align:center; float:left; display:block; margin-right:5px; width:16px; height:16px; overflow:hidden; line-height:16px; display:inline;}
+#imgContent ul{margin:0; list-style-type: none;}
+#imgContent .hidden {display:none;}
+.clear{ clear:both;}

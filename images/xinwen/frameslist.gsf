@@ -1,0 +1,9 @@
+[Header]
+Type=GifSplitter Frames
+°æ±¾=2.0
+Count=4
+[Frames]
+IMG00000=D:\workspace\wwwroot\wanfangwfx\images\xinwen.gif.ifl\IMG00000.bmp
+IMG00001=D:\workspace\wwwroot\wanfangwfx\images\xinwen.gif.ifl\IMG00001.bmp
+IMG00002=D:\workspace\wwwroot\wanfangwfx\images\xinwen.gif.ifl\IMG00002.bmp
+IMG00003=D:\workspace\wwwroot\wanfangwfx\images\xinwen.gif.ifl\IMG00003.bmp
