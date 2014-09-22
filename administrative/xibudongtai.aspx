@@ -22,7 +22,7 @@ src="../css/menu.js"></SCRIPT>
 </HEAD>
 <BODY>
 <!--主体开始-->
-<DIV class=zhongteach>
+<DIV class=zhong>
 <!--头部开始-->
 <DIV class=head>
 <DIV class=logo_w></DIV>

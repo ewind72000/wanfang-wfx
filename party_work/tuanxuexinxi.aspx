@@ -22,7 +22,7 @@ src="../css/menu.js"></SCRIPT>
 </HEAD>
 <BODY>
 <!--主体开始-->
-<DIV class=zhong-dangjian>
+<DIV class=zhong>
 <!--头部开始-->
 <DIV class=head>
 <DIV class=logo_w></DIV>
@@ -123,8 +123,8 @@ src="../css/menu.js"></SCRIPT>
   <UL class=sub_nav_06><SPAN class=Triangle_con></SPAN>
     <LI><A 
     href="../administrative/xibudongtai.aspx">系部动态</A></LI>
-    <LI><A 
-    href="../administrative/huiyijiyao.aspx">会议纪要</A></LI>
+    <!--<LI><A
+    href="../administrative/huiyijiyao.aspx">会议纪要</A></LI>-->
     <LI><A 
     href="../administrative/guizhangzhidu.html">规章制度</A></LI>
     <LI><A 

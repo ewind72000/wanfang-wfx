@@ -1,94 +1,223 @@
 BODY {
-	BORDER-LEFT-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; BACKGROUND: url(../images/bg.jpg) repeat-y; BORDER-BOTTOM-WIDTH: 0px; COLOR: #989a86; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px
-}
-IMG {
-	BORDER-LEFT-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px
-}
-A {
-	TEXT-DECORATION: none; COLOR: #989a86
-}
-*{ margin:0px; padding:0px; border:0px;}
-.clear {
-	CLEAR: both
-}
-.zhong {
-	BORDER-TOP: silver 1px solid; BORDER-RIGHT: silver 1px solid; WIDTH: 960px; BACKGROUND: white; BORDER-BOTTOM: silver 1px solid; MARGIN: 0px auto;  BORDER-LEFT: silver 1px solid
-}
-.zhong-t {
-	BORDER-TOP: silver 1px solid; BORDER-RIGHT: silver 1px solid; WIDTH: 960px; BACKGROUND: white; BORDER-BOTTOM: silver 1px solid; MARGIN: 0px auto;  BORDER-LEFT: silver 1px solid
-}
-.head {
-	HEIGHT: 200px; WIDTH: 960px; BACKGROUND: repeat-x url(../images/bg_01.gif);
+    BORDER-LEFT-WIDTH: 0px;
+    BORDER-RIGHT-WIDTH: 0px;
+    background-image: url(../images/bg_new.png);
+    background-repeat: repeat;
+    BORDER-BOTTOM-WIDTH: 0px;
+    PADDING-BOTTOM: 0px;
+    PADDING-TOP: 0px;
+    PADDING-LEFT: 0px;
+    MARGIN: 0px;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP-WIDTH: 0px;
+    FONT-FAMILY: "ËÎÌå", Arial, Helvetica, sans-serif;
 }
 
+IMG {
+    BORDER-LEFT-WIDTH: 0px;
+    BORDER-RIGHT-WIDTH: 0px;
+    BORDER-BOTTOM-WIDTH: 0px;
+    BORDER-TOP-WIDTH: 0px
+}
+
+A {
+    TEXT-DECORATION: none;
+    COLOR: #989a86
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.clear {
+    CLEAR: both
+}
+
+.zhong {
+    margin: auto;
+    BORDER-TOP: silver 1px solid;
+    BORDER-RIGHT: silver 1px solid;
+    WIDTH: 960px;
+    BACKGROUND: white;
+    BORDER-BOTTOM: silver 1px solid;
+    MARGIN: 0px auto;
+    BORDER-LEFT: silver 1px solid;
+    height: 100%;
+}
+
+.zhong-t {
+    BORDER-TOP: silver 1px solid;
+    BORDER-RIGHT: silver 1px solid;
+    WIDTH: 960px;
+    BACKGROUND: white;
+    BORDER-BOTTOM: silver 1px solid;
+    MARGIN: 0px auto;
+    BORDER-LEFT: silver 1px solid
+}
+
+.head {
+    HEIGHT: 200px;
+    WIDTH: 960px;
+    BACKGROUND: repeat-x url(../images/bg_01.gif);
+}
 
 .banner {
-	MARGIN-BOTTOM: 20px
+    MARGIN-BOTTOM: 20px
 }
+
 .banner IMG {
-	WIDTH: 960px
+    WIDTH: 960px
 }
 
 .span0 {
-	WIDTH: 5%; FLOAT: left; DISPLAY: block
+    WIDTH: 5%;
+    FLOAT: left;
+    DISPLAY: block
 }
+
 .span1 {
-	OVERFLOW: hidden; WIDTH: 55%; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis; FLOAT: left; DISPLAY: block; -o-text-overflow: ellipsis; -moz-binding: url('ellipsis.xml#ellipsis')
+    OVERFLOW: hidden;
+    WIDTH: 55%;
+    WHITE-SPACE: nowrap;
+    TEXT-OVERFLOW: ellipsis;
+    FLOAT: left;
+    DISPLAY: block;
+    -o-text-overflow: ellipsis;
+    -moz-binding: url('ellipsis.xml#ellipsis')
 }
+
 .span2 {
-	WIDTH: 20%; FLOAT: left; TEXT-ALIGN: center; DISPLAY: block
+    WIDTH: 20%;
+    FLOAT: left;
+    TEXT-ALIGN: center;
+    DISPLAY: block
 }
+
 .span3 {
-	WIDTH: 20%; FLOAT: left; TEXT-ALIGN: center; DISPLAY: block
+    WIDTH: 20%;
+    FLOAT: left;
+    TEXT-ALIGN: center;
+    DISPLAY: block
 }
+
 .span3 IMG {
-	MARGIN-LEFT: 20px; MARGIN-TOP: 10px
+    MARGIN-LEFT: 20px;
+    MARGIN-TOP: 10px
 }
+
 .span4 {
-	WIDTH: 40%; FLOAT: left; TEXT-ALIGN: right; DISPLAY: block
+    WIDTH: 40%;
+    FLOAT: left;
+    TEXT-ALIGN: right;
+    DISPLAY: block
 }
+
 .span5 {
-	WIDTH: 60%; FLOAT: left; TEXT-ALIGN: center; DISPLAY: block
+    WIDTH: 60%;
+    FLOAT: left;
+    TEXT-ALIGN: center;
+    DISPLAY: block
 }
 
 .main {
-	OVERFLOW: hidden; BORDER-TOP: #cfcabb 2px solid; HEIGHT: 200px; WIDTH: 420px; PADDING-LEFT: 8px; CLEAR: both
+    OVERFLOW: hidden;
+    BORDER-TOP: #cfcabb 2px solid;
+    HEIGHT: 200px;
+    WIDTH: 420px;
+    PADDING-LEFT: 8px;
+    CLEAR: both
 }
+
 #zzjs_net_1 {
-	HEIGHT: 200px; WIDTH: 420px
+    HEIGHT: 200px;
+    WIDTH: 420px
 }
+
 .menu0 {
-	HEIGHT: 28px; WIDTH: 420px
+    HEIGHT: 28px;
+    WIDTH: 420px
 }
+
 .menu0 LI {
-	CURSOR: pointer; HEIGHT: 22px; FONT-FAMILY: ï¿½ï¿½ï¿½å£¬Arialï¿½ï¿½Helveticaï¿½ï¿½sans-serif; WIDTH: 100px; BACKGROUND: #d7d2c4; FLOAT: left; PADDING-BOTTOM: 4px; TEXT-ALIGN: center; PADDING-TOP: 4px; PADDING-LEFT: 0px; DISPLAY: inline; LINE-HEIGHT: 22px; PADDING-RIGHT: 0px
+    CURSOR: pointer;
+    HEIGHT: 22px;
+    WIDTH: 100px;
+    BACKGROUND: #d7d2c4;
+    FLOAT: left;
+    PADDING-BOTTOM: 4px;
+    TEXT-ALIGN: center;
+    PADDING-TOP: 4px;
+    PADDING-LEFT: 0px;
+    DISPLAY: inline;
+    LINE-HEIGHT: 22px;
+    PADDING-RIGHT: 0px
 }
+
 .menu0 LI.hover {
-	BACKGROUND: #8e8d87; COLOR: white
+    BACKGROUND: #8e8d87;
+    COLOR: white
 }
+
 #main0 UL {
-	FONT-SIZE: 14px; TEXT-DECORATION: none; MARGIN-TOP: 20px; DISPLAY: none
+    FONT-SIZE: 14px;
+    TEXT-DECORATION: none;
+    MARGIN-TOP: 20px;
+    DISPLAY: none
 }
+
 #tab0 UL.block {
-	TEXT-DECORATION: none; DISPLAY: block
+    TEXT-DECORATION: none;
+    DISPLAY: block
 }
+
 #main0 UL.block {
-	TEXT-DECORATION: none; DISPLAY: block
+    TEXT-DECORATION: none;
+    DISPLAY: block
 }
+
 #main0 UL LI {
-	LIST-STYLE-TYPE: none; HEIGHT: 30px
+    LIST-STYLE-TYPE: none;
+    HEIGHT: 30px
 }
+
 #main0 UL LI SPAN {
-	FONT-SIZE: 14px; FONT-FAMILY: ï¿½ï¿½ï¿½å£¬Arialï¿½ï¿½Helveticaï¿½ï¿½sans-serif; COLOR: black; MARGIN-LEFT: 40px
+    FONT-SIZE: 14px;
+    COLOR: black;
+    MARGIN-LEFT: 40px
 }
+
 #main0 UL LI A {
-	OVERFLOW: hidden; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: ï¿½ï¿½ï¿½å£¬Arialï¿½ï¿½Helveticaï¿½ï¿½sans-serif; WIDTH: 320px; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis; FLOAT: left; COLOR: black; DISPLAY: block; -o-text-overflow: ellipsis; -moz-binding: url('ellipsis.xml#ellipsis')
+    OVERFLOW: hidden;
+    FONT-SIZE: 14px;
+    TEXT-DECORATION: none;
+    WIDTH: 320px;
+    WHITE-SPACE: nowrap;
+    TEXT-OVERFLOW: ellipsis;
+    FLOAT: left;
+    COLOR: black;
+    DISPLAY: block;
+    -o-text-overflow: ellipsis;
+    -moz-binding: url('ellipsis.xml#ellipsis')
 }
+
 #main0 UL LI A:hover {
-	
+
 }
+
 #main0 UL LI A:visited {
-	
+
 }
-.gengduo{ height:21px; width:50px; float:right; margin-top:-15px; padding-right:10px; }
-.gengduo a:link{ color:#FFF;}
+
+.gengduo {
+    height: 21px;
+    width: 50px;
+    float: right;
+    margin-top: -15px;
+    padding-right: 10px;
+}
+
+.gengduo a:link {
+    color: #FFF;
+}

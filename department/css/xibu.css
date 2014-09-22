@@ -1,38 +1,178 @@
 @charset "gb2312";
 /* CSS Document */
-.line-img{ width:719px; height:200px; margin:10px 0 ; padding-left:15px;}
-.teacher-img{ height:200px; width:120px; margin: 0 9px; float:left;}
-.teacher-img1{height:170px; width:120px; float:left;}
-.teacher-name{height:30px; width:120px;  float:left; font-size:14px; color:#000; padding-left:40px; padding-top:8px;}
-.zhong-teacher{ margin:auto;BORDER-TOP: silver 1px solid;
- BORDER-RIGHT: silver 1px solid; WIDTH:960px; height:auto;
- BORDER-BOTTOM: silver 1px solid; MARGIN: 0px auto;  BORDER-LEFT: silver 1px solid; 
+.line-img {
+    width: 719px;
+    height: 200px;
+    margin: 10px 0;
+    padding-left: 15px;
 }
-.content-teacher{height:auto; width:960px; margin-bottom:15px; margin-left:0px; margin-top:0px;}
-.teacher-left{ height:566px; width:240px; float:left; background:url(../img/letf-p6.gif) no-repeat;}
-.teacher-right{ height:auto; width:720px; float:left; }
-.teacher-left-t{ height:86px; width:240px; float:left; }
-.teacher-left-p{ height:480px; width:240px; float:left; }
-.teacher-right-t{ height:100px; width:720px; float:left; }
-.teacher-right-p{ height:auto; width:720px; float:left;}
-.teacher-lt{ height:40px; width:205px; margin-left:35px;; float:left;  font-size:16px; color:#FFF; font-weight:800;}
-.teacher-lt span a { display:block; height:40px; width:205px; padding-top:12px; padding-left:40px; color:#000;}
-.teacher-lt A:hover{ background:url(../img/left_list.jpg) no-repeat; color:#FF0;}
-.teacher-rimgl{ width:500px; height:380px; margin:10px 110px; float:left;}
-.teacher-rlt{ line-height:23px; font-size:12px; color:#000; text-indent:20px; width:700px; height:auto; float:left; padding:4px 15px;}
-.xibu-sub-t{
-	line-height:25px;
-	font-size:12px;
-	overflow:scroll;
-	color:#000;
-	text-indent:20px;
-	width:700px;
-	margin-right:10px;
-	height:360px;
-	float:left;
-	padding:4px 15px
+
+.teacher-img {
+    height: 200px;
+    width: 120px;
+    margin: 0 9px;
+    float: left;
 }
-.xibu-sub-t1{height:35px; width:720px; float:left;}
-.zhuanyejieshao{ height:30px; width:720px; float:left; color:#000; text-align:center;}
-.zuzhigj{ BORDER-TOP: silver 1px solid; BORDER-RIGHT: silver 1px solid; WIDTH: 960px; BACKGROUND: white; BORDER-BOTTOM: silver 1px solid; MARGIN: 0px auto; height:1000px; BORDER-LEFT: silver 1px solid}
-.zuzhigj_right{width:720px; height:773px;; float:left;}
+
+.teacher-img1 {
+    height: 170px;
+    width: 120px;
+    float: left;
+}
+
+.teacher-name {
+    height: 30px;
+    width: 120px;
+    float: left;
+    font-size: 14px;
+    color: #000;
+    padding-left: 40px;
+    padding-top: 8px;
+}
+
+.zhong-teacher {
+    margin: auto;
+    BORDER-TOP: silver 1px solid;
+    BORDER-RIGHT: silver 1px solid;
+    WIDTH: 960px;
+    BACKGROUND: white;
+    BORDER-BOTTOM: silver 1px solid;
+    MARGIN: 0px auto;
+    BORDER-LEFT: silver 1px solid;
+    height: 100%;
+}
+
+.content-teacher {
+    height: auto;
+    width: 960px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.teacher-left {
+    height: 566px;
+    width: 240px;
+    float: left;
+    background: url(../img/letf-p6.gif) no-repeat;
+}
+
+.teacher-right {
+    height: auto;
+    width: 720px;
+    float: left;
+}
+
+.teacher-left-t {
+    height: 86px;
+    width: 240px;
+    float: left;
+}
+
+.teacher-left-p {
+    height: 480px;
+    width: 240px;
+    float: left;
+}
+
+.teacher-right-t {
+    height: 100px;
+    width: 720px;
+    float: left;
+}
+
+.teacher-right-p {
+    height: auto;
+    width: 720px;
+    float: left;
+}
+
+.teacher-lt {
+    height: 40px;
+    width: 205px;
+    margin-left: 35px;;
+    float: left;
+    font-size: 16px;
+    color: #FFF;
+    font-weight: 800;
+}
+
+.teacher-lt span a {
+    display: block;
+    height: 40px;
+    width: 205px;
+    padding-top: 12px;
+    padding-left: 40px;
+    color: #000;
+}
+
+.teacher-lt A:hover {
+    background: url(../img/left_list.jpg) no-repeat;
+    color: #FF0;
+}
+
+.teacher-rimgl {
+    width: 500px;
+    height: 380px;
+    margin: 10px 110px;
+    float: left;
+}
+
+.teacher-rlt {
+    line-height: 23px;
+    font-size: 12px;
+    color: #000;
+    text-indent: 20px;
+    width: 700px;
+    height: 350px;
+    float: left;
+    padding: 4px 10px;
+    font-size: 14px;
+    overflow:scroll;
+}
+
+.xibu-sub-t {
+    line-height: 25px;
+    font-size: 14px;
+    overflow: scroll;
+    color: #000;
+    text-indent: 20px;
+    width: 700px;
+    margin-right: 10px;
+    height: 360px;
+    float: left;
+    padding: 4px 10px
+}
+
+.xibu-sub-t1 {
+    height: 35px;
+    width: 720px;
+    float: left;
+    font-size: 24px;
+}
+
+.zhuanyejieshao {
+    height: 30px;
+    width: 720px;
+    float: left;
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+}
+
+.zuzhigj {
+    BORDER-TOP: silver 1px solid;
+    BORDER-RIGHT: silver 1px solid;
+    WIDTH: 960px;
+    BACKGROUND: white;
+    BORDER-BOTTOM: silver 1px solid;
+    MARGIN: 0px auto;
+    height: 1000px;
+    BORDER-LEFT: silver 1px solid
+}
+
+.zuzhigj_right {
+    width: 720px;
+    height: 773px;;
+    float: left;
+}

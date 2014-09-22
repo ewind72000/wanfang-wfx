@@ -6,11 +6,12 @@
           http-equiv="X-UA-Compatible">
     <TITLE>河南理工大学万方科技学院文法系 外语系</TITLE>
     <META content="text/html; charset=gb2312" http-equiv=Content-Type>
-    <LINK rel=stylesheet type=text/css href="css/style.css">
+
     <LINK rel=stylesheet type=text/css href="css/css.css">
     <link rel="stylesheet" type="text/css" href="css/zzsc.css">
     <link href="css/index20110802.css" rel="stylesheet" type="text/css">
     <link href="css/slideshow_buttontitle.css" rel="stylesheet" type="text/css"></link>
+    <LINK rel=stylesheet type=text/css href="css/style.css">
     <!--<link href="css/public.css" rel="stylesheet" type="text/css">-->
     <SCRIPT language=javascript type=text/javascript
             src="css/jquery-1.4.2.js"></SCRIPT>
@@ -26,6 +27,31 @@
         blankImg.src = "images/15/0001.png";
     </script>
     <![endif]-->
+    <script type="text/javascript">
+        $(function(){
+            // 页面浮动面板
+            $("#floatPanel a.arrow").eq(0).click(function(){
+                $("html,body").animate({scrollTop :0}, 300);
+                return false;
+            });
+            $("#floatPanel a.arrow").eq(1).click(function(){
+                $("html,body").animate({scrollTop : $(document).height()}, 300);
+                return false;
+            });
+
+            var panel = $(".popPanel");
+            var w = panel.outerWidth();
+
+            $(".qrcode").hover(function(){
+                panel.css("width","0px").show();
+                panel.animate({"width" : w + "px"},300);
+            },function(){
+                panel.animate({"width" : "0px"},300);
+            });
+
+        });
+
+    </script>
 
     <META name=GENERATOR content="MSHTML 11.00.9600.17041">
 
@@ -497,6 +523,24 @@ false;window.open(this.options[this.selectedIndex].value)"
 
 
 </DIV>
+<div id="floatPanel">
+    <div class="ctrolPanel" style="right:50px;">
+        <a class="arrow" href="#"><span>顶部</span></a>
+        <a class="contact" href="http://t.qq.com/wfwenfaxitzz_xsh" target="_blank"><span>反馈</span></a>
+        <a class="qrcode" href="#"><span>微信二维码</span></a>
+        <a class="arrow" href="#"><span>底部</span></a>
+    </div>
+
+    <div class="popPanel" style="right:96px;">
+        <div class="popPanel-inner">
+            <div class="qrcodePanel"><img src="./images/weibo.png" /><p>扫描二维码用手机看微博</p></div>
+            <div class="arrowPanel">
+                <div class="arrow01"></div>
+                <div class="arrow02"></div>
+            </div>
+        </div>
+    </div>
+</div>
 <!--内容结束-->
 
 
