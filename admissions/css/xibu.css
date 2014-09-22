@@ -5,8 +5,12 @@
 .teacher-img1{height:170px; width:120px; float:left;}
 .teacher-name{height:30px; width:120px;  float:left; font-size:14px; color:#000; padding-left:40px; padding-top:8px;}
 .zhong-teacher{ margin:auto;BORDER-TOP: silver 1px solid;
- BORDER-RIGHT: silver 1px solid; WIDTH:960px; height:auto;
+ BORDER-RIGHT: silver 1px solid; WIDTH:960px; height:1200px;
  BORDER-BOTTOM: silver 1px solid; MARGIN: 0px auto;  BORDER-LEFT: silver 1px solid; 
+}
+.zhong-student{ margin:auto;BORDER-TOP: silver 1px solid;
+    BORDER-RIGHT: silver 1px solid; WIDTH:960px; height:1000px;
+    BORDER-BOTTOM: silver 1px solid; MARGIN: 0px auto;  BORDER-LEFT: silver 1px solid;
 }
 .content-teacher{height:auto; width:960px; margin-bottom:15px; margin-left:0px; margin-top:0px;}
 .teacher-left{ height:566px; width:240px; float:left; background:url(../img/letf-p6.gif) no-repeat;}

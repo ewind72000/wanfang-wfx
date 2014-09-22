@@ -40,11 +40,11 @@ A {
     BORDER-TOP: silver 1px solid;
     BORDER-RIGHT: silver 1px solid;
     WIDTH: 960px;
+    height: 800px;
     BACKGROUND: white;
     BORDER-BOTTOM: silver 1px solid;
     MARGIN: 0px auto;
     BORDER-LEFT: silver 1px solid;
-    height: 100%;
 }
 
 .zhong-t {

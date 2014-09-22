@@ -39,7 +39,19 @@
     BORDER-BOTTOM: silver 1px solid;
     MARGIN: 0px auto;
     BORDER-LEFT: silver 1px solid;
-    height: 100%;
+    height: 800px;
+}
+
+.zhong-student{
+    margin: auto;
+    BORDER-TOP: silver 1px solid;
+    BORDER-RIGHT: silver 1px solid;
+    WIDTH: 960px;
+    BACKGROUND: white;
+    BORDER-BOTTOM: silver 1px solid;
+    MARGIN: 0px auto;
+    BORDER-LEFT: silver 1px solid;
+    height: 1000px;
 }
 
 .content-teacher {
@@ -158,6 +170,18 @@
     color: #000;
     text-align: center;
     font-size: 24px;
+}
+
+.zhong-zhuanyejieshao{
+    margin: auto;
+    BORDER-TOP: silver 1px solid;
+    BORDER-RIGHT: silver 1px solid;
+    WIDTH: 960px;
+    height: 100%;
+    BACKGROUND: white;
+    BORDER-BOTTOM: silver 1px solid;
+    MARGIN: 0px auto;
+    BORDER-LEFT: silver 1px solid;
 }
 
 .zuzhigj {

@@ -2,45 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c7fc1a7-f434-4a21-96ee-1e0f92bb5f91" name="Default" comment="Initial commit&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg_new.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/panel_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weibo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrative/2guizhangzhidu.html" afterPath="$PROJECT_DIR$/administrative/2guizhangzhidu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/2jingpinkecheng.html" afterPath="$PROJECT_DIR$/teaching/2jingpinkecheng.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrative/3guizhangzhidu.html" afterPath="$PROJECT_DIR$/administrative/3guizhangzhidu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/3jingpinkecheng.html" afterPath="$PROJECT_DIR$/teaching/3jingpinkecheng.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrative/4guizhangzhidu.html" afterPath="$PROJECT_DIR$/administrative/4guizhangzhidu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/4jingpinkecheng.html" afterPath="$PROJECT_DIR$/teaching/4jingpinkecheng.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrative/5guizhangzhidu.html" afterPath="$PROJECT_DIR$/administrative/5guizhangzhidu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/5jingpinkecheng.html" afterPath="$PROJECT_DIR$/teaching/5jingpinkecheng.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrative/6guizhangzhidu.html" afterPath="$PROJECT_DIR$/administrative/6guizhangzhidu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/6jingpinkecheng.html" afterPath="$PROJECT_DIR$/teaching/6jingpinkecheng.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/css.css" afterPath="$PROJECT_DIR$/css/css.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/party_work/dangjanxinxi.aspx" afterPath="$PROJECT_DIR$/party_work/dangjanxinxi.aspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/party_work/dangyuanzuzhi.html" afterPath="$PROJECT_DIR$/party_work/dangyuanzuzhi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zhuren.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zhuren.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/名师风采.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/优秀学生.png" afterPath="$PROJECT_DIR$/images/优秀学生.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/图片新闻.png" afterPath="$PROJECT_DIR$/images/图片新闻.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/图片新闻.psd" afterPath="$PROJECT_DIR$/images/图片新闻.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admissions/student/2index.html" afterPath="$PROJECT_DIR$/admissions/student/2index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/department/2zhuanyejieshao.html" afterPath="$PROJECT_DIR$/department/2zhuanyejieshao.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admissions/student/3index.html" afterPath="$PROJECT_DIR$/admissions/student/3index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/department/3zhuanyejieshao.html" afterPath="$PROJECT_DIR$/department/3zhuanyejieshao.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admissions/student/4index.html" afterPath="$PROJECT_DIR$/admissions/student/4index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/department/4zhuanyejieshao.html" afterPath="$PROJECT_DIR$/department/4zhuanyejieshao.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrative/gonghuizhijia.html" afterPath="$PROJECT_DIR$/administrative/gonghuizhijia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrative/guizhangzhidu.html" afterPath="$PROJECT_DIR$/administrative/guizhangzhidu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrative/huiyijiyao.aspx" afterPath="$PROJECT_DIR$/administrative/huiyijiyao.aspx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index20110802.css" afterPath="$PROJECT_DIR$/css/index20110802.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admissions/student/index.html" afterPath="$PROJECT_DIR$/admissions/student/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admissions/jianyexinxi.aspx" afterPath="$PROJECT_DIR$/admissions/jianyexinxi.aspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/css/jiaoxue.css" afterPath="$PROJECT_DIR$/teaching/css/jiaoxue.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/jiaoxuegaige.aspx" afterPath="$PROJECT_DIR$/teaching/jiaoxuegaige.aspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/jingpinkecheng.html" afterPath="$PROJECT_DIR$/teaching/jingpinkecheng.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research/keyanxinxi.aspx" afterPath="$PROJECT_DIR$/research/keyanxinxi.aspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/menu.js" afterPath="$PROJECT_DIR$/css/menu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/shijianjingsai.aspx" afterPath="$PROJECT_DIR$/teaching/shijianjingsai.aspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/shijianjingsai.html" afterPath="$PROJECT_DIR$/teaching/shijianjingsai.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admissions/jiuyejiqiao.html" afterPath="$PROJECT_DIR$/admissions/jiuyejiqiao.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/party_work/tuanxuexinxi.aspx" afterPath="$PROJECT_DIR$/party_work/tuanxuexinxi.aspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/party_work/tuanxuezuzhi.html" afterPath="$PROJECT_DIR$/party_work/tuanxuezuzhi.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admissions/css/xibu.css" afterPath="$PROJECT_DIR$/admissions/css/xibu.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/department/css/xibu.css" afterPath="$PROJECT_DIR$/department/css/xibu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrative/xibudongtai.aspx" afterPath="$PROJECT_DIR$/administrative/xibudongtai.aspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/department/xibujianjie.html" afterPath="$PROJECT_DIR$/department/xibujianjie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/zhuanyeshezhi.html" afterPath="$PROJECT_DIR$/teaching/zhuanyeshezhi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/department/xidashijian.html" afterPath="$PROJECT_DIR$/department/xidashijian.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admissions/css/zhaosheng.css" afterPath="$PROJECT_DIR$/admissions/css/zhaosheng.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/department/zhuanyejieshao.html" afterPath="$PROJECT_DIR$/department/zhuanyejieshao.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admissions/ziliaoxiazai.aspx" afterPath="$PROJECT_DIR$/admissions/ziliaoxiazai.aspx" />
     </list>
     <ignored path="wanfang-wfx.iws" />
@@ -105,91 +90,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="3jingpinkecheng.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teaching/3jingpinkecheng.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admissions/student/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.1923075" vertical-offset="291" max-vertical-offset="5180">
+            <state line="8" column="0" selection-start="452" selection-end="510" vertical-scroll-proportion="-6.1538463" vertical-offset="0" max-vertical-offset="5960">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4jingpinkecheng.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teaching/4jingpinkecheng.html">
+      <file leaf-file-name="2index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admissions/student/2index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.5384617" vertical-offset="282" max-vertical-offset="5060">
+            <state line="21" column="25" selection-start="803" selection-end="803" vertical-scroll-proportion="-16.153847" vertical-offset="0" max-vertical-offset="5700">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5jingpinkecheng.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teaching/5jingpinkecheng.html">
+      <file leaf-file-name="3index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admissions/student/3index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.5384617" vertical-offset="282" max-vertical-offset="5100">
+            <state line="8" column="62" selection-start="514" selection-end="514" vertical-scroll-proportion="-6.1538463" vertical-offset="0" max-vertical-offset="5980">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6jingpinkecheng.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teaching/6jingpinkecheng.html">
+      <file leaf-file-name="4index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admissions/student/4index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.5384617" vertical-offset="282" max-vertical-offset="5040">
+            <state line="7" column="60" selection-start="451" selection-end="451" vertical-scroll-proportion="-5.3846154" vertical-offset="0" max-vertical-offset="5720">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shijianjingsai.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teaching/shijianjingsai.html">
+      <file leaf-file-name="jiuyejiqiao.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admissions/jiuyejiqiao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.6923075" vertical-offset="278" max-vertical-offset="4820">
+            <state line="212" column="22" selection-start="7835" selection-end="7835" vertical-scroll-proportion="-2.0" vertical-offset="4188" max-vertical-offset="4700">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zhuanyeshezhi.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teaching/zhuanyeshezhi.html">
+      <file leaf-file-name="ziliaoxiazai.aspx" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admissions/ziliaoxiazai.aspx">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-15.384615" vertical-offset="0" max-vertical-offset="4820">
+            <state line="216" column="22" selection-start="7479" selection-end="7479" vertical-scroll-proportion="0.4750733" vertical-offset="4158" max-vertical-offset="4780">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jiaoxuegaige.aspx" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/teaching/jiaoxuegaige.aspx">
+      <file leaf-file-name="xibu.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admissions/css/xibu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="55" selection-start="755" selection-end="755" vertical-scroll-proportion="-7.696629" vertical-offset="3060" max-vertical-offset="5000">
+            <state line="11" column="58" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="620">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5guizhangzhidu.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/administrative/5guizhangzhidu.html">
+      <file leaf-file-name="xibu.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/department/css/xibu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.5384617" vertical-offset="282" max-vertical-offset="5100">
+            <state line="44" column="0" selection-start="716" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="749" max-vertical-offset="4140">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6guizhangzhidu.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/administrative/6guizhangzhidu.html">
+      <file leaf-file-name="xidashijian.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/department/xidashijian.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.5384617" vertical-offset="282" max-vertical-offset="5180">
+            <state line="4" column="29" selection-start="255" selection-end="255" vertical-scroll-proportion="-3.0769231" vertical-offset="0" max-vertical-offset="5000">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="huiyijiyao.aspx" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/administrative/huiyijiyao.aspx">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/department/teacher/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="16" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="5080">
+            <state line="20" column="20" selection-start="735" selection-end="735" vertical-scroll-proportion="-15.384615" vertical-offset="0" max-vertical-offset="5200">
               <folding />
             </state>
           </provider>
@@ -209,15 +194,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/department/xidashijian.html" />
         <option value="$PROJECT_DIR$/research/tongzhigonggao.aspx" />
         <option value="$PROJECT_DIR$/css/index20110802.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/teaching/jingpinkecheng.html" />
         <option value="$PROJECT_DIR$/party_work/dangyuanzuzhi.html" />
         <option value="$PROJECT_DIR$/party_work/tuanxuezuzhi.html" />
-        <option value="$PROJECT_DIR$/admissions/ziliaoxiazai.aspx" />
-        <option value="$PROJECT_DIR$/admissions/jianyexinxi.aspx" />
         <option value="$PROJECT_DIR$/party_work/dangjanxinxi.aspx" />
         <option value="$PROJECT_DIR$/party_work/tuanxuexinxi.aspx" />
         <option value="$PROJECT_DIR$/research/keyanxinxi.aspx" />
@@ -228,10 +209,8 @@
         <option value="$PROJECT_DIR$/administrative/gonghuizhijia.html" />
         <option value="$PROJECT_DIR$/research/css/xuesheng.css" />
         <option value="$PROJECT_DIR$/department/xibujianjie.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/css.css" />
         <option value="$PROJECT_DIR$/css/menu.js" />
-        <option value="$PROJECT_DIR$/department/css/xibu.css" />
         <option value="$PROJECT_DIR$/teaching/css/jiaoxue.css" />
         <option value="$PROJECT_DIR$/teaching/2jingpinkecheng.html" />
         <option value="$PROJECT_DIR$/administrative/2guizhangzhidu.html" />
@@ -246,14 +225,31 @@
         <option value="$PROJECT_DIR$/teaching/6jingpinkecheng.html" />
         <option value="$PROJECT_DIR$/teaching/shijianjingsai.html" />
         <option value="$PROJECT_DIR$/teaching/zhuanyeshezhi.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/department/zhuanyejieshao.html" />
+        <option value="$PROJECT_DIR$/department/4zhuanyejieshao.html" />
+        <option value="$PROJECT_DIR$/department/3zhuanyejieshao.html" />
+        <option value="$PROJECT_DIR$/department/2zhuanyejieshao.html" />
+        <option value="$PROJECT_DIR$/department/xidashijian.html" />
+        <option value="$PROJECT_DIR$/admissions/css/zhaosheng.css" />
+        <option value="$PROJECT_DIR$/admissions/jianyexinxi.aspx" />
+        <option value="$PROJECT_DIR$/department/css/xibu.css" />
+        <option value="$PROJECT_DIR$/admissions/student/index.html" />
+        <option value="$PROJECT_DIR$/admissions/student/3index.html" />
+        <option value="$PROJECT_DIR$/admissions/css/xibu.css" />
+        <option value="$PROJECT_DIR$/admissions/student/2index.html" />
+        <option value="$PROJECT_DIR$/admissions/student/4index.html" />
+        <option value="$PROJECT_DIR$/admissions/jiuyejiqiao.html" />
+        <option value="$PROJECT_DIR$/admissions/ziliaoxiazai.aspx" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="776" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -513,6 +509,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="admissions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wanfang-wfx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wanfang-wfx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admissions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wanfang-wfx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wanfang-wfx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="administrative" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -578,38 +610,6 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -636,6 +636,38 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -708,6 +740,7 @@
       <workItem from="1410853578117" duration="6155000" />
       <workItem from="1410923418690" duration="236000" />
       <workItem from="1411366691848" duration="15110000" />
+      <workItem from="1411390353370" duration="5656000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;">
       <created>1410859942127</created>
@@ -721,39 +754,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22626000" />
+    <option name="totallyTimeSpent" value="28282000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3268921" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32608697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24313408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24244712" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -813,129 +847,19 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/research/tongzhigonggao.aspx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research/xueshujainzuo.aspx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="49" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teaching/img/left_p.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/zzsc.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1380">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/department/2zhuanyejieshao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/slideshow_buttontitle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/panel_bg.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/0001.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/party_work/dangyuanzuzhi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="748" selection-end="748" vertical-scroll-proportion="-7.6923075" vertical-offset="180" max-vertical-offset="5180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/party_work/tuanxuezuzhi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="16" selection-start="784" selection-end="784" vertical-scroll-proportion="-10.0" vertical-offset="180" max-vertical-offset="5240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admissions/jianyexinxi.aspx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="61" selection-start="3838" selection-end="3838" vertical-scroll-proportion="0.33239436" vertical-offset="2382" max-vertical-offset="4880">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/party_work/dangjanxinxi.aspx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="61" selection-start="3828" selection-end="3828" vertical-scroll-proportion="-4.037037" vertical-offset="2411" max-vertical-offset="5080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/party_work/tuanxuexinxi.aspx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="61" selection-start="3828" selection-end="3828" vertical-scroll-proportion="0.0" vertical-offset="2402" max-vertical-offset="5080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/research/keyanxinxi.aspx">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="61" selection-start="3854" selection-end="3854" vertical-scroll-proportion="0.33239436" vertical-offset="2422" max-vertical-offset="5100">
-          <folding />
-        </state>
+        <state line="127" column="61" selection-start="3854" selection-end="3854" vertical-scroll-proportion="0.33239436" vertical-offset="2422" max-vertical-offset="5100" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching/shijianjingsai.aspx">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="61" selection-start="3845" selection-end="3845" vertical-scroll-proportion="0.0" vertical-offset="2362" max-vertical-offset="5000">
-          <folding />
-        </state>
+        <state line="124" column="61" selection-start="3845" selection-end="3845" vertical-scroll-proportion="0.0" vertical-offset="2362" max-vertical-offset="5000" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/administrative/xibudongtai.aspx">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="17" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5080">
-          <folding />
-        </state>
+        <state line="24" column="17" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5080" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/administrative/guizhangzhidu.html">
@@ -947,52 +871,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/research/css/xuesheng.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="39" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="580">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="39" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="580" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index20110802.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="5" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="800">
-          <folding>
-            <marker date="1411372286541" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1411372286541" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="43" selection-start="1187" selection-end="1211" vertical-scroll-proportion="0.60037524" vertical-offset="120" max-vertical-offset="10440">
-          <folding>
-            <element signature="tag#DIV#3;tag#DIV#1;tag#DIV#0;tag#BODY#0;tag#HTML#0" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
-            <marker date="1411372989878" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/slideshow_buttontitle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.2880143" vertical-offset="720" max-vertical-offset="2540">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.2880143" vertical-offset="720" max-vertical-offset="2540" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8620">
-          <folding>
-            <marker date="1410788933596" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admissions/ziliaoxiazai.aspx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="681" selection-end="688" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4880">
           <folding />
         </state>
       </provider>
@@ -1008,7 +904,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="50" column="37" selection-start="1411" selection-end="1415" vertical-scroll-proportion="21.038462" vertical-offset="1547" max-vertical-offset="3760">
           <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#DIV#1;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#DIV#1;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1022,32 +918,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="1000">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="434" column="0" selection-start="7028" selection-end="7028" vertical-scroll-proportion="0.33216783" vertical-offset="8490" max-vertical-offset="11240">
-          <folding>
-            <marker date="1411376997743" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/department/zhuanyejieshao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="156" column="19" selection-start="4624" selection-end="4624" vertical-scroll-proportion="-9.230769" vertical-offset="2880" max-vertical-offset="3640">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="4" selection-start="643" selection-end="879" vertical-scroll-proportion="-3.7037036" vertical-offset="660" max-vertical-offset="4560">
-          <folding />
-        </state>
+        <state line="10" column="3" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="1000" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/department/teacher/index11.html">
@@ -1057,26 +928,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/department/css/xibu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="17" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="3660">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/teaching/css/jiaoxue.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="46" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="580">
-          <folding />
-        </state>
+        <state line="23" column="46" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="580" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching/jingpinkecheng.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="157" column="27" selection-start="4871" selection-end="4871" vertical-scroll-proportion="-115.84615" vertical-offset="128" max-vertical-offset="4980">
           <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#DIV#0;n#DIV#1;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#DIV#0;n#DIV#1;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#DIV#0;n#DIV#1;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#DIV#0;n#DIV#1;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1111,14 +973,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/administrative/5guizhangzhidu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.5384617" vertical-offset="282" max-vertical-offset="5100">
+        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="282" max-vertical-offset="5100">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/administrative/6guizhangzhidu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.5384617" vertical-offset="282" max-vertical-offset="5180">
+        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="282" max-vertical-offset="5180">
           <folding />
         </state>
       </provider>
@@ -1132,49 +994,206 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching/3jingpinkecheng.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.1923075" vertical-offset="291" max-vertical-offset="5180">
+        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="5180">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching/4jingpinkecheng.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.5384617" vertical-offset="282" max-vertical-offset="5060">
+        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="282" max-vertical-offset="5060">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching/5jingpinkecheng.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.5384617" vertical-offset="282" max-vertical-offset="5100">
+        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="282" max-vertical-offset="5100">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching/6jingpinkecheng.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.5384617" vertical-offset="282" max-vertical-offset="5040">
+        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="282" max-vertical-offset="5040">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching/shijianjingsai.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-4.6923075" vertical-offset="278" max-vertical-offset="4820">
+        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="4820">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching/zhuanyeshezhi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="-15.384615" vertical-offset="0" max-vertical-offset="4820">
+        <state line="20" column="16" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="4820">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching/jiaoxuegaige.aspx">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="55" selection-start="755" selection-end="755" vertical-scroll-proportion="-7.696629" vertical-offset="3060" max-vertical-offset="5000">
+        <state line="16" column="55" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="3060" max-vertical-offset="5000">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/图片新闻.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="351" column="56" selection-start="13099" selection-end="13099" vertical-scroll-proportion="-4.5471697" vertical-offset="6779" max-vertical-offset="10440">
+          <folding>
+            <element signature="tag#DIV#3;tag#DIV#1;tag#DIV#0;tag#BODY#0;tag#HTML#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <marker date="1411394486616" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/teacher/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="23" selection-start="738" selection-end="738" vertical-scroll-proportion="-15.384615" vertical-offset="0" max-vertical-offset="5420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/zhuanyejieshao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="31" selection-start="750" selection-end="750" vertical-scroll-proportion="-15.038462" vertical-offset="29" max-vertical-offset="3640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/4zhuanyejieshao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="31" selection-start="750" selection-end="750" vertical-scroll-proportion="-4.5384617" vertical-offset="302" max-vertical-offset="3660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/3zhuanyejieshao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="31" selection-start="750" selection-end="750" vertical-scroll-proportion="-16.153847" vertical-offset="0" max-vertical-offset="3660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/2zhuanyejieshao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="31" selection-start="750" selection-end="750" vertical-scroll-proportion="-16.153847" vertical-offset="0" max-vertical-offset="3680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="416" column="0" selection-start="6741" selection-end="6741" vertical-scroll-proportion="0.0" vertical-offset="8137" max-vertical-offset="11240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/zuzhigoujia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="17" selection-start="4923" selection-end="4923" vertical-scroll-proportion="-4.245283" vertical-offset="3095" max-vertical-offset="3600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admissions/jianyexinxi.aspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="22" selection-start="7480" selection-end="7480" vertical-scroll-proportion="0.0" vertical-offset="4242" max-vertical-offset="4780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="17" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="584" max-vertical-offset="4560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admissions/css/zhaosheng.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/css/xibu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="716" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="749" max-vertical-offset="4140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/xidashijian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="255" selection-end="255" vertical-scroll-proportion="-3.0769231" vertical-offset="0" max-vertical-offset="5000">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/department/teacher/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="20" selection-start="735" selection-end="735" vertical-scroll-proportion="-15.384615" vertical-offset="0" max-vertical-offset="5200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admissions/student/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="452" selection-end="510" vertical-scroll-proportion="-6.1538463" vertical-offset="0" max-vertical-offset="5960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admissions/student/3index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="62" selection-start="514" selection-end="514" vertical-scroll-proportion="-6.1538463" vertical-offset="0" max-vertical-offset="5980">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admissions/student/2index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="25" selection-start="803" selection-end="803" vertical-scroll-proportion="-16.153847" vertical-offset="0" max-vertical-offset="5700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admissions/css/xibu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="58" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admissions/student/4index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="60" selection-start="451" selection-end="451" vertical-scroll-proportion="-5.3846154" vertical-offset="0" max-vertical-offset="5720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admissions/jiuyejiqiao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="212" column="22" selection-start="7835" selection-end="7835" vertical-scroll-proportion="-2.0" vertical-offset="4188" max-vertical-offset="4700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admissions/ziliaoxiazai.aspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="22" selection-start="7479" selection-end="7479" vertical-scroll-proportion="0.4750733" vertical-offset="4158" max-vertical-offset="4780">
           <folding />
         </state>
       </provider>
