@@ -1,0 +1,10 @@
+/* box */
+.tab_menu{overflow:hidden;margin-left: 10px;font-family: "¿¬Ìå";font-size: 17px;font-weight: bold}
+.tab_menu li{margin-right:2px;width:100px;float:left;height:30px;line-height:30px;color:#fff;background:#faafb0;text-align:center;cursor:pointer;}
+.tab_menu li.current{color:#333;background:#c1191b;}
+.tab_menu li a{color:#fff;text-decoration:none;}
+.tab_menu li.current a{color:#fff;}
+/*.tab_box{border-top: 1px solid #d3d3d3}*/
+.tab_box li{height:24px;line-height:24px;overflow:hidden;}
+.tab_box li span{margin:0 5px 0 0;font-family:"ËÎÌå";font-size:12px;font-weight:400;color:#ddd;}
+.tab_box .hide{display:none;}

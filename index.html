@@ -12,15 +12,18 @@
     <link href="css/index20110802.css" rel="stylesheet" type="text/css">
     <link href="css/slideshow_buttontitle.css" rel="stylesheet" type="text/css"></link>
     <LINK rel=stylesheet type=text/css href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/tabs.css"/>
     <!--<link href="css/public.css" rel="stylesheet" type="text/css">-->
-    <SCRIPT language=javascript type=text/javascript
-            src="css/jquery-1.4.2.js"></SCRIPT>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <!--<SCRIPT language=javascript type=text/javascript src="css/jquery-1.4.2.js"></SCRIPT>-->
 
     <SCRIPT language=javascript type=text/javascript
             src="css/menu.js"></SCRIPT>
-    <script type="text/javascript" language="javascript" src="js/jquery.min.js"></script>
+    <!--<script type="text/javascript" language="javascript" src="js/jquery.min.js"></script>-->
     <script type="text/javascript" language="javascript" src="js/tabChange.js"></script>
     <script type="text/javascript" src="js/slideshow_buttontitle.js"></script>
+    <script type="text/javascript" src="js/jquery.tabs.js"></script>
+    <script type="text/javascript" src="js/jquery.lazyload.js"></script>
     <!--[if IE 6]>
     <script type="text/javascript">
         var blankImg = new Image();
@@ -28,27 +31,32 @@
     </script>
     <![endif]-->
     <script type="text/javascript">
-        $(function(){
+        $(function () {
             // 页面浮动面板
-            $("#floatPanel a.arrow").eq(0).click(function(){
-                $("html,body").animate({scrollTop :0}, 300);
+            $("#floatPanel a.arrow").eq(0).click(function () {
+                $("html,body").animate({scrollTop: 0}, 300);
                 return false;
             });
-            $("#floatPanel a.arrow").eq(1).click(function(){
-                $("html,body").animate({scrollTop : $(document).height()}, 300);
+            $("#floatPanel a.arrow").eq(1).click(function () {
+                $("html,body").animate({scrollTop: $(document).height()}, 300);
                 return false;
             });
 
             var panel = $(".popPanel");
             var w = panel.outerWidth();
 
-            $(".qrcode").hover(function(){
-                panel.css("width","0px").show();
-                panel.animate({"width" : w + "px"},300);
-            },function(){
-                panel.animate({"width" : "0px"},300);
+            $(".qrcode").hover(function () {
+                panel.css("width", "0px").show();
+                panel.animate({"width": w + "px"}, 300);
+            }, function () {
+                panel.animate({"width": "0px"}, 300);
             });
 
+            $('#tab_div').Tabs();
+            $('#tab_div #Table1:eq(0) tr:eq(0)').remove();
+            $('#tab_div #Table1:eq(0) tr:gt(8)').remove();
+            $('#tab_div #Table1:eq(1) tr:eq(0)').remove();
+            $('#tab_div #Table1:eq(1) tr:gt(8)').remove();
         });
 
     </script>
@@ -58,7 +66,7 @@
 </HEAD>
 <BODY>
 <!--主体开始-->
-<DIV class=zhong>
+<DIV class=zhong-index>
 <!--头部开始-->
 <DIV class=head>
     <DIV class=logo_w></DIV>
@@ -345,7 +353,7 @@
 
 </DIV>
 <DIV class="content_w2">
-    <DIV class="con_w21"><img src="images/zhuren.png" width="260" height="240" border="0" usemap="#Map">
+    <DIV class="con_w21"><img src="images/zhurennew.png" width="260" height="240" border="0" usemap="#Map">
         <map name="Map">
             <area shape="rect" coords="7,8,254,54" href="http://t.qq.com/wfwenfaxitzz_xsh">
             <area shape="rect" coords="8,67,254,110" href="teaching/jingpinkecheng.html">
@@ -353,15 +361,15 @@
             <area shape="rect" coords="7,183,251,234" href="admissions/ziliaoxiazai.aspx">
         </map>
     </DIV>
-    <DIV class="con_w22">
-        <DIV class="con_w221"><img src="images/news22.jpg" width="440" height="50" border="0" usemap="#Map4">
-            <map name="Map4">
-                <area shape="rect" coords="373,3,440,48" href="research/xibuxinwen.aspx">
+    <DIV class="con_w32">
+        <DIV class="con_w221"><img src="images/news11.jpg" width="440" height="50" border="0" usemap="#Map5">
+            <map name="Map5">
+                <area shape="rect" coords="366,5,435,53" href="research/tongzhigonggao.aspx">
             </map>
         </DIV>
         <DIV class="con_w222">
             <script language="javascript"
-                    src="http://www.wanfang.edu.cn/wfnews/showlist.asp?classid=608&regcode=f7c5662e79f7e576caae7e9e36f22c90"></script>
+                    src="http://www.wanfang.edu.cn/wfnews/showlist.asp?classid=609&regcode=3163744dbe361887056da8250aadd67a"></script>
         </DIV>
     </DIV>
     <DIV class="con_w33">
@@ -430,24 +438,45 @@
             <p>人生格言：they who have conquered doubt and fear have conquered failure. </p>
         </div>
     </DIV>
-    <DIV class="con_w32">
-        <DIV class="con_w221"><img src="images/news11.jpg" width="440" height="50" border="0" usemap="#Map5">
-            <map name="Map5">
-                <area shape="rect" coords="366,5,435,53" href="research/tongzhigonggao.aspx">
+    <div id="tab_div" class="con_w22">
+        <ul class="tab_menu">
+            <li class="current"><a href="research/xibuxinwen.aspx">系部动态</a></li>
+            <li><a href="party_work/tuanxuexinxi.aspx">团学之窗</a></li>
+            <li><a href="party_work/dangjanxinxi.aspx">党建工会</a></li>
+        </ul>
+        <div class="tab_box">
+            <div class="con_w222">
+                <script language="javascript"
+                        src="http://www.wanfang.edu.cn/wfnews/showlist.asp?classid=608&regcode=f7c5662e79f7e576caae7e9e36f22c90"></script>
+            </div>
+            <div class="con_w222 hide">
+                <script language="javascript"
+                        src="http://www.wanfang.edu.cn/wfnews/getmore.asp?classid=809&regcode=301dc1de2d187ebbc169e2beb90a491d"></script>
+            </div>
+            <div class="con_w222 hide">
+                <script language="javascript"
+                        src="http://www.wanfang.edu.cn/wfnews/getmore.asp?classid=610&regcode=005c8b2ae3bd740b4e56538650e4c677"></script>
+            </div>
+        </div>
+    </div>
+    <!--<DIV class="con_w22">
+        <DIV class="con_w221"><img src="images/news22.jpg" width="440" height="50" border="0" usemap="#Map4">
+            <map name="Map4">
+                <area shape="rect" coords="373,3,440,48" href="research/xibuxinwen.aspx">
             </map>
         </DIV>
         <DIV class="con_w222">
             <script language="javascript"
-                    src="http://www.wanfang.edu.cn/wfnews/showlist.asp?classid=609&regcode=3163744dbe361887056da8250aadd67a"></script>
+                    src="http://www.wanfang.edu.cn/wfnews/showlist.asp?classid=608&regcode=f7c5662e79f7e576caae7e9e36f22c90"></script>
         </DIV>
-    </DIV>
+    </DIV>-->
     <DIV class="con_w33">
-        <div class="con_mingshifengcai"><img src="images/名师风采.png" width="260" height="30" border="0"
-                                             usemap="#Map3">
+        <div class="con_mingshifengcai"><img src="images/名师风采.png" width="260" height="30" border="0" usemap="#Map3">
             <map name="Map3">
-                <area shape="rect" coords="192,4,259,30" href="department/teacher/index.html">
+                <area shape="rect" coords="193,4,262,31" href="department/teacher/index.html">
             </map>
-            <!--名师风采<span class="gengduo"><a href="#">更多&raquo;</a></span>--></div>
+            <!--名师风采<span class="gengduo"><a href="#">更多&raquo;</a></span>-->
+        </div>
         <div class="con_w33_2">
             <p>姓名：顾中潭</p>
 
@@ -533,7 +562,9 @@ false;window.open(this.options[this.selectedIndex].value)"
 
     <div class="popPanel" style="right:96px;">
         <div class="popPanel-inner">
-            <div class="qrcodePanel"><img src="./images/weibo.png" /><p>扫描二维码用手机看微博</p></div>
+            <div class="qrcodePanel"><img src="./images/weibo.png"/>
+
+                <p>扫描二维码用手机看微博</p></div>
             <div class="arrowPanel">
                 <div class="arrow01"></div>
                 <div class="arrow02"></div>

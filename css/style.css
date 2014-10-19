@@ -47,6 +47,17 @@ A {
     BORDER-LEFT: silver 1px solid;
 }
 
+.zhong-index {
+    margin: auto;
+    BORDER-TOP: silver 1px solid;
+    BORDER-RIGHT: silver 1px solid;
+    WIDTH: 960px;
+    BACKGROUND: white;
+    BORDER-BOTTOM: silver 1px solid;
+    MARGIN: 0px auto;
+    BORDER-LEFT: silver 1px solid;
+}
+
 .zhong-t {
     BORDER-TOP: silver 1px solid;
     BORDER-RIGHT: silver 1px solid;
